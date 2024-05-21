@@ -1,7 +1,5 @@
 # Cyber-Cafe-Management-System-Project<br>Using PHP & Mysql...
 
-# Cyber Cafe Management System (CCMS)
-
 The Cyber Cafe Management System (CCMS) is a web-based application designed to manage the operations of a cyber cafe efficiently. It provides features for managing user accounts, computer usage, billing, and generating reports. This README file provides information on how to set up and use the CCMS application.
 
 ## Features
